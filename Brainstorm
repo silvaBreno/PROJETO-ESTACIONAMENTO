@@ -1,0 +1,29 @@
+Problemas:
+
+1° - Portas amassadas e riscos na pintura, ocasionados pelo desrespeito às vagas demarcadas, por causa de superlotação.
+2° - Os manobristas que são em 10 pessoas, não sabem ao certo se cabe mais algum carro em algum conto do estacionamento ou não.
+3° - O proprietário desconfia que veículos estão ocupando vagas e saindo sem apagar ou pagando de forma diferente de permanência realizada.
+4° - Hoje, o controle do estacionamento é todo manual e os recebimentos são em espécie (dinheiro vivo).
+
+
+Soluções:
+
+1° - Utilizar espumas de proteção em paredes e pilastras. 
+ \-> Demarcar/sinalizar vagas a partir do tamanho dos carros. Utilizar uma "zona/área" do estacionamento para carros pequenos e outra para carros grandes (SUV's).
+ \-> Sistema indica vagas estratégicas com o auxílio de luzes LED em cada vaga, sinalizando se a vaga está disponível ou não. Para carros pequenos utilizar a cor verde,
+ para carros grandes a cor azul e quando a vaga estiver ocupada utilizar a cor vermelha. 
+ \-> Sinalizar as pessoas que estão entrando no estacionamento o número de vagas disponíveis no local, com isso os clientes não vão transitar por dentro do 
+ estacionamento diminuindo as chances de acidentes (portas amassadas e riscos na pintura).
+ 
+2° - Demarcar/sinalizar vagas a partir do tamanho dos carros. Utilizar uma "zona/área" do estacionamento para carros pequenos e outra para carros grandes (SUV's).
+ \-> Sistema indica em um monitor as vagas estratégicas para os manobristas com o auxílio de luzes LED em cada vaga, sinalizando se a vaga está disponível ou não. Para 
+ carros pequenos utilizar a cor verde, para carros grandes a cor azul e quando a vaga estiver ocupada utilizar a cor vermelha. 
+ \-> Sinalizar as pessoas que estão entrando no estacionamento o número de vagas disponíveis no local, com isso os clientes não vão transitar por dentro do 
+ estacionamento diminuindo as chances de acidentes (portas amassadas e riscos na pintura).
+  
+3° - Implementar um sistema de check-in e check-out que contabilizará o tempo, através da criação de QR codes para os clientes que acabaram de entrar no estacionamento, 
+em sinergia com as cancelas físicas no próprio estacionamento. 
+ 
+4° - O sistema ao gerar o QR code já carrega as informações de horario de entrada e saída, disponibilizando também a facilidade de pagar pelo próprio aplicativo do 
+estacionamento. O cliente tem a facilidade de pagar através de PIX, cartões de crédito e débito pelo aplicativo, e no guichê todas as formas anteriores mais dinheiro
+espécie.
