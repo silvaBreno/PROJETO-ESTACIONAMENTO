@@ -27,3 +27,10 @@ em sinergia com as cancelas físicas no próprio estacionamento.
 4° - O sistema ao gerar o QR code já carrega as informações de horario de entrada e saída, disponibilizando também a facilidade de pagar pelo próprio aplicativo do 
 estacionamento. O cliente tem a facilidade de pagar através de PIX, cartões de crédito e débito pelo aplicativo, e no guichê todas as formas anteriores mais dinheiro
 espécie.
+
+
+Possíveis Ideias de Implementacoes:
+
+1° - Em todas as vagas uma plataforma calço para mobilizar o carro até o cliente pagar o estacionamento. A plataforma serve para seguranca e tambem para controle.
+
+
