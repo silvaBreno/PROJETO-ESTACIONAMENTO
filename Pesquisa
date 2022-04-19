@@ -1,0 +1,35 @@
+Estruturas Físicas Necessárias
+
+1° - Espumas nas paredes e pilastras;
+2° - Cancelas Eletrônicas Automatizadas;
+3° - Tintas de cores distintas para delimitar as zonas de carros grandes (SUV's), pequenos e motos;
+4° - Led coloridos (verde,azul, amarelo e vermelho) com sensor de vaga (ultrassom) para indicar se a vaga está disponível. Para carros pequenos utilizar a cor verde, 
+para carros grandes a cor azul e quando a vaga estiver ocupada utilizar a cor vermelha;
+5° - Leitor de Placas;
+6° - Totens de Entrada e Saída;
+7° - Totens de Autoatendimento para pagamentos em PIX e cartões (débito e crédito);
+7° - Totens de Autoatendimento para pagamentos em PIX e cartões (débito e crédito), com módulos para pagamento em dinheiro em espécie;
+8° - Câmeras de Monitoramento para melhorar a segurança (controle) do estacionamento;
+9° - Sensores compatíveis com as TAGs comuns do mercado (Sem Parar e Conect Car);
+10° - Sistemas de Comunicação Acoplados aos Totens de Entrada e Saída para facilitar o atendimento caso o cliente precise de ajuda com alguma coisa.  
+11° - Painel de Led indicando aonde tem vagas disponível;
+
+Estruturas de Digitais Necessárias
+
+1° - Integração dos Sistemas Utilizados para manter o controle dos dados utilizados e facilitar o atendimento;
+2° - Controle de rotativos/horistas;
+3° - Extremamente flexível, permitindo convênios e até condições especiais de preço;
+4° - Diferentes níveis de permissão de uso, dando maior segurança;
+5° - Impressão de cupons de entrada e saída com código de barras;
+6° - Gestão simples e eficiente do caixa;
+7° - Gerar QR Code;
+8° - Controle de Fluxo dos Carros;
+9° - Tarifação inteligente;
+10° - Planos mensais;
+11° - Módulo Financeiro e de Contabilidade;
+12° - Parcerias de convênios;
+13° - Acompanhamento do caixa;
+14° - Criação de anotações/lembretes;
+15° - Criação de vouchers;
+16° - Acréscimo de serviços como lava-jato, lava-rápido, cera, polimento e outros;
+17° - Proteção do sistema com anti-fraude;
